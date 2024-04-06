@@ -13,6 +13,7 @@ let addresses = [
 let addressesapi = [
 	//'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesapi.txt', //可参考内容格式 自行搭建。
 	//'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesipv6api.txt', //IPv6优选内容格式 自行搭建。
+	'https://wenben-33v.pages.dev/IP.txt?token=675379', 
 ];
 
 // 设置优选地址，不带端口号默认80，noTLS订阅生成
@@ -21,19 +22,19 @@ let addressesnotls = [
 	//'www.wto.org:8080#官方优选域名',
 	//'www.who.int:8880#官方优选域名',
 	'time.cloudflare.com:80#自选线路',
-'shopify.com:80#自选线路',
-'time.is:80#自选线路',
-'icook.hk:80#自选线路',
-'icook.tw:80#自选线路',
-'ip.sb:80#自选线路',
-'japan.com:80#自选线路',
-'malaysia.com:80#自选线路',
-'russia.com:80#自选线路',
-'singapore.com:80#自选线路',
-'skk.moe:80#自选线路',
-'www.visa.com:80#自选线路',
-'www.visa.com.sg:80#自选线路',
-'www.visa.com.hk:80#自选线路',
+'shopify.com:80#自选线路'，
+'time.is:80#自选线路'，
+'icook.hk:80#自选线路'，
+'icook.tw:80#自选线路'，
+'ip.sb:80#自选线路'，
+'japan.com:80#自选线路'，
+'malaysia.com:80#自选线路'，
+'russia.com:80#自选线路'，
+'singapore.com:80#自选线路'，
+'skk.moe:80#自选线路'，
+'www.visa.com:80#自选线路'，
+'www.visa.com.sg:80#自选线路'，
+'www.visa.com.hk:80#自选线路'，
 'www.visa.com.tw:80#自选线路',
 'www.visa.co.jp:80#自选线路',
 'www.visakorea.com:80#自选线路',
